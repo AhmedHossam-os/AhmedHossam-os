@@ -109,11 +109,12 @@
 
 <br />
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHossam-os&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHossam-os&theme=dark&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <a href="https://github.com/AhmedHossam-os">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHossam-os&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br />
