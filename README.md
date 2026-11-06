@@ -7,7 +7,7 @@
   <h3><b>Machine Learning Systems & GenAI Engineer</b></h3>
 
   <p>
-    Specialized in engineering foundation model infrastructure, <b>Agentic RAG Workflows</b>, and high-performance AI systems.
+    Specialized in engineering foundation model infrastructure, <b>Agentic RAG Workflows</b>, and scalable machine learning systems.
   </p>
 
   <!-- Badges -->
@@ -26,45 +26,42 @@
 
 </div>
 
-<p align="center">
-  I am a research-oriented <b>Machine Learning Systems & GenAI Engineer</b> working on foundation model infrastructure, alignment, and evaluation. I build efficient and reliable systems for large language models while studying the algorithms and data choices that make them more useful, controllable, and cost-effective in real applications.
-</p>
-
 <hr />
 
-## 🔬 Core Research & Engineering Interests
+## 🔬 Machine Learning Systems & GenAI Research
 
-- 🎯 **Model-System Co-Design:** Understanding how model architecture, inference algorithms, data curation, hardware utilization, scheduling, and distributed runtimes interact.
-- 🤖 **Agentic RAG & LLM Orchestration:** Designing multi-agent systems using `LangGraph`, hybrid vector search (`FAISS` + `BM25`), and neural reranking (`BGE`).
-- ⚡ **Production & Backend:** Deploying scalable AI solutions with `FastAPI`, asynchronous runtimes, and optimized pipelines.
+- 🧠 **Foundation Model Infrastructure:** Deeply focused on optimizing the lifecycle of large language models, managing inference pipelines, and minimizing latency in production environments.
+- 🎯 **Model-System Co-Design:** Exploring the complex interactions between model architectures, hardware utilization, distributed runtimes, and efficient context window management.
+- 🤖 **Advanced Agentic RAG:** Architecting autonomous multi-agent systems via `LangGraph`, hybrid vector search (`FAISS` + `BM25`), and neural reranking (`BGE`) to eliminate hallucinations.
+- ⚡ **Production & Serving:** Bridging raw machine learning research with robust backend services using `Python`, `FastAPI`, and asynchronous processing.
 
 <br />
 
-## 🛠️ Tech Stack & Architecture
+## 🛠️ Tech Stack & ML Ecosystem
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>AI & LLM Ecosystem</b></td>
+    <td align="center" width="25%"><b>ML & GenAI Core</b></td>
     <td width="75%">
-      <code>LangChain</code> • <code>LangGraph</code> • <code>FAISS</code> • <code>BM25</code> • <code>Sentence-Transformers</code> • <code>BGE Reranker</code> • <code>Ollama</code> • <code>Groq API</code> • <code>Gemini API</code>
+      <code>LangChain</code> • <code>LangGraph</code> • <code>FAISS</code> • <code>BM25</code> • <code>Sentence-Transformers</code> • <code>BGE Reranker</code> • <code>Ollama</code> • <code>Groq API</code> • <code>Gemini API</code> • <code>PyMuPDF</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend & Core</b></td>
+    <td align="center"><b>Backend & Services</b></td>
     <td>
-      <code>Python 3.12/3.13</code> • <code>FastAPI</code> • <code>Gradio</code> • <code>RESTful APIs</code> • <code>C++</code>
+      <code>Python 3.12/3.13</code> • <code>FastAPI</code> • <code>Gradio</code> • <code>RESTful APIs</code> • <code>Asynchronous Programming</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Hardware & IoT</b></td>
+    <td align="center"><b>Hardware & Edge AI</b></td>
     <td>
-      <code>ESP32</code> • <code>Arduino UNO</code> • <code>IoT Sensors</code> • <code>Edge Integration</code>
+      <code>ESP32</code> • <code>Arduino UNO</code> • <code>IoT Sensors & Actuators</code> • <code>Hardware-Software Integration</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Toolchain & DevOps</b></td>
+    <td align="center"><b>Engineering Toolchain</b></td>
     <td>
-      <code>Docker Desktop</code> • <code>Git / GitHub</code> • <code>Google Colab</code> • <code>VS Code</code> • <code>PowerShell</code>
+      <code>Docker Desktop</code> • <code>Git / GitHub</code> • <code>Google Colab</code> • <code>VS Code</code> • <code>Windows PowerShell</code>
     </td>
   </tr>
 </table>
@@ -78,13 +75,33 @@
     <tr>
       <td width="50%" valign="top">
         <h3>🤖 BNU Smart Assistant</h3>
-        <p>A sophisticated bilingual Arabic/English academic AI platform driven by <b>Agentic RAG</b>, hybrid vector search, BGE neural reranking, and dynamic state graphs via <code>LangGraph</code>.</p>
-        <p><code>LangGraph</code> <code>FAISS</code> <code>FastAPI</code> <code>LLMs</code></p>
+        <p>A sophisticated bilingual Arabic/English academic AI platform driven by <b>Agentic RAG</b>, hybrid vector search (FAISS + BM25), BGE neural reranking, and dynamic state graphs via <code>LangGraph</code>.</p>
+        <p>
+          <code>LangGraph</code> <code>FAISS</code> <code>FastAPI</code> <code>LLMs</code>
+        </p>
       </td>
+      <td width="50%" valign="top">
+        <h3>⚡ Interactive Physics & Code Platforms</h3>
+        <p>Engineered interactive web modules featuring real-time simulators and automated backend-to-client workflows connected via messaging protocols.</p>
+        <p>
+          <code>Python</code> <code>JavaScript</code> <code>Full-Stack</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3>🪴 Smart Automated Irrigation System</h3>
         <p>An IoT-driven environmental control framework utilizing microcontroller integration, multiplexers, and real-time sensory thresholds for automated resource management.</p>
-        <p><code>Arduino</code> <code>C++</code> <code>IoT Sensors</code></p>
+        <p>
+          <code>Arduino</code> <code>C++</code> <code>Sensors</code>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🛡️ ESP32 Smart Security Alarm</h3>
+        <p>An embedded hardware security integration leveraging ultrasonic distance measurement and PIR motion tracking coupled with responsive alert triggers.</p>
+        <p>
+          <code>ESP32</code> <code>IoT Architecture</code> <code>Microcontrollers</code>
+        </p>
       </td>
     </tr>
   </table>
