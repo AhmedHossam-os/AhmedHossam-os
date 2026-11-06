@@ -1,13 +1,44 @@
-<img src="header.png" alt="Hi, I'm Michael – Senior Vue.js & Nuxt freelancer for complex web apps">
-<h2>🧑‍💻 Portfolio</h2>
-<p>Senior Vue.js &amp; Nuxt freelancer for complex web apps. Check out my projects, services and how I can help your team.</p>
-<p><a href="https://mokkapps.de" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Visit%20mokkapps.de-00342F?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Visit my portfolio" height="32"></a></p>
-<h2>🚀 Nuxt SaaS Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="nuxtstarterkit.png" alt="Nuxt SaaS Starter Kit – Ship your Nuxt SaaS in days, not months" width="100%">
-    </a>
-<h2>📰 Vue Digest</h2>
-<p>Your daily dose of Vue.js &amp; Nuxt: latest news, ecosystem releases &amp; conferences.</p>
-  <a href="https://vuedigest.com" target="_blank" rel="noreferrer nofollow">
-      <img src="vuedigest.png" alt="Vue Digest – Your daily dose of Vue.js & Nuxt news" width="100%">
-    </a>
+<p align="center">
+  <img src="header.png" alt="Hi, AI Engineer & Full-Stack Developer">
+</p>
+
+<h2 align="center">🧑‍💻 Portfolio & About Me</h2>
+
+<p align="center">
+  <b>Senior AI Engineer & Computer Science Instructor</b> specialising in Generative AI, Retrieval-Augmented Generation (RAG), Agentic Workflows, and Embedded Systems/IoT.
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Core & AI:** Python, FastAPI, Gradio, LangChain, LangGraph, FAISS, BM25, Sentence-Transformers, LlamaParse, Ollama, PyMuPDF.
+* **Hardware & IoT:** ESP32, Arduino UNO, Ultrasonic Sensors, PIR, Relays, Multiplexers.
+* **Web & Frontend:** HTML/CSS, Modern JavaScript, Vue.js / Nuxt (as requested), Responsive UI/UX Design.
+* **Toolchain:** Docker Desktop, Windows PowerShell, Git / GitHub, Google Colab, VS Code.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 BNU Smart Assistant
+* **Bilingual Arabic/English AI Academic Assistant** built using Agentic RAG, FAISS, BM25, BGE Reranker, Gemini Flash, and LangGraph.
+
+### ⚡ Physics & Educational Platforms
+* Interactive learning web platforms featuring physics simulators (Ohm's Law, Electromagnetic Induction) and automated student ordering integrations.
+
+### 🪴 Smart IoT Systems
+* Automated plant irrigation & security alarm systems built with ESP32/Arduino, capacitive soil moisture sensors, and real-time triggers.
+
+---
+
+## 📬 Let's Connect
+
+<p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00342F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+  <a href="https://github.com/your-username" target="_blank" rel="noreferrer nofollow">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</p>
