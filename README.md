@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Ahmed Hossam - AI Engineer Banner" width="100%">
+  <img src="header.png" alt="Ahmed Hossam - AI Engineer Banner" width="100%" onerror="this.style.display='none'">
 
   <h1>👋 Hi, I'm Ahmed Hossam El-Khashab</h1>
   <h3><b>Generative AI & LLM Systems Engineer</b></h3>
@@ -16,7 +16,7 @@
     <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:ahmed123h12@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <img src="https://img.shields.io/badge/Location-Egypt-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
@@ -30,7 +30,7 @@
 - 🧠 **GenAI & LLM Architecture:** Passionate about designing robust Generative AI ecosystems, optimizing context windows, and minimizing hallucinations via advanced retrieval strategies.
 - 🤖 **Agentic Workflows & RAG:** Deeply experienced in building autonomous multi-agent systems using `LangGraph` combined with hybrid search (`FAISS` + `BM25`) and neural reranking (`BGE`).
 - 🛠️ **From Prompt to Production:** Seamlessly integrating LLMs with robust backend APIs (`FastAPI`, `Python`) and deploying scalable AI-powered applications.
-- 🎓 **Background:** B.Sc. in Computer Science from Benha National University (BNU).
+- 🎓 **Education:** B.Sc. in Computer Science from Benha National University (BNU).
 
 <br />
 
@@ -109,12 +109,4 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=dark&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Engineered with passion by <b>Ahmed Hossam El-Khashab</b></sub>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"
